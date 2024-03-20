@@ -1,0 +1,7 @@
+[project]
+name = "ragcore-knowledge-base"
+version = "1.0.0"
+description = "Production-grade RAG knowledge system with semantic chunking, reciprocal rank fusion (RRF), re-ranking, and strict hallucination prevention."
+authors = [{name = "Wajid Raza", email = "wajidrazapk@outlook.com"}]
+readme = "README.md"
+requires-python = ">=3.9"
